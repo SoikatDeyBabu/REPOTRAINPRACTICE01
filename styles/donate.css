@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-image: url('../images/donation11.jpg');
+    background-color: whitesmoke;
+    background-blend-mode: multiply;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.headcontainer{
+    padding: 150px 300px;
+}
+.headingone{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.primarybtn{
+    border: 0;
+    padding: 16px 12px;
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    /* align-items: center; */
+}
+main{
+    margin: 90px 150px;
+    /* text-align: center; */
+    /* align-items: center; */
+}
+.sectionone{
+    margin: 10px 200px;
+    align-items: center;
+}
+.texth2{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    color: #121212;
+}
+.sectiondescription{
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    margin: 20px 80px;
+}
+.bt{
+    padding-left: 0;
+    padding-right: 0;
+    display: flex;
+    list-style: none;
+    justify-content:space-between;
+    width: 87%;
+}
+
+.secondbtn{
+    position: absolute;
+    width: 90px;
+    height: 75px;
+    border: 0;
+    background: #FAFAFA;;
+    border-radius: 5px;
+}
+
+.secondbtn2{
+    position: absolute;
+    width: 90px;
+    height: 75px;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px; 
+}
+input{
+    margin-top: 100px;
+    /* margin-left: 40px; */
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    margin-bottom: 20px;
+}
+
+.sectiontwo{
+    margin: 10px 0;
+    align-items: center;
+}
+
+.sectiontwodescription{
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    margin: 20px 300px;
+}
+
+.fse{
+    padding-left: 0;
+    padding-right: 0;
+    gap: 30px;
+    display: flex;
+    list-style: none;
+    justify-content:space-between;
+    width: 100%;
+}
+
+.food{
+    width: 450px;
+    height: 250px;
+    left: 157px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+
+.shelter{
+    width: 450px;
+    height: 250px;
+    left: 157px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+.education{
+    width: 450px;
+    height: 250px;
+    left: 157px;
+    background: bisque;
+    border-radius: 5px;
+}
+
+.img{
+    margin-top: 60px;
+    margin-left: 25px;
+}
+
+.text-h5{
+    margin-top: 32px;
+    margin-left: 25px;
+}
+
+.text-p{
+    margin-top: 16px;
+    margin-left: 25px;
+    font-size: 12px;
+}
+
+.twocol{
+    margin-top: 50px;
+    padding-left: 0;
+    padding-right: 0;
+    gap: 150px;
+    display: flex;
+    list-style: none;
+    justify-content:space-around;
+    width: 90%;
+}
+.firstcol{
+    margin-top: 50px;
+}
+.depend{
+    font-weight: 700;
+    font-size: 25px;
+    color: #121212;
+    margin-bottom: 15px;;
+}
+.imgtwo{
+    width: 400px;
+    height: 420px;
+}
+.text-img{
+    margin-top: 16px;
+    margin-bottom: 25px;
+    font-size: 12px;
+}
+
+.sectionthree{
+    margin: 10px 190px;
+}
+
+.sectionfivedescription{
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    margin: 20px 100px;
+}
+
+.subscribe{
+    padding: 0;
+    width:100%;
+    height: 200px;
+    background: bisque;
+    border: 0;
+}
+
+.email{
+    text-align: center;
+    width: 70%;
+    margin-top: 18px;
+    border: 0;
+    background-color: lightgrey;
+    height: 45px;
+}
+
+.humble{
+    width: 100%;
+    background: #0B0D17;
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.fhead{
+font-family: 'Lobster';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+letter-spacing: 0.5px;
+color: #FF5959;
+}
+
+.fp{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+color: #D9DBE1;
+}
